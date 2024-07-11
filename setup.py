@@ -9,3 +9,5 @@ setup(
     install_requires=[],
     dependency_links=[],
 )
+
+test()
